@@ -1,4 +1,4 @@
-# dojo-blog
+# basicsadda-blog
 
 ## Project setup
 ```
